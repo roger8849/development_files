@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="(mobileoptionals)" name="(mobileoptionals)" removed="false">
+          <dependency>(mobileservices)==mobileservices</dependency>
+          <dependency>(mobileservices)==mobileservices_web</dependency>
+          <dependency>(voucher)==voucher</dependency>
+          <dependency>(promotions)==promotions</dependency>
+          <dependency>(platform)==platform</dependency>
+          <dependency>(cms2)==cms2</dependency>
+          <file>file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/project.properties</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/resources/mobileoptionals-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/eclipsebin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals">
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/commonweb/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/acceleratoraddon/web/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/backoffice/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/backoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/backoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/eclipsebin-web" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/testclasses" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library name="resources">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="mobileoptionalsserver.jar with sources">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../bin/ext-channel/mobileoptionals/bin/mobileoptionalsserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../../../../source-attachment-1811.28.zip!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="mobileservices" exported="" />
+    <orderEntry type="module" module-name="voucher" exported="" />
+    <orderEntry type="module" module-name="promotions" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="cms2" exported="" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+  <component name="moduleReferences">
+    <list uuid="1b2d0986f7d4460fa557a25de9d3548721076040172a8bfa108bac245cb32f1f" id="b5bea41b6c623f7c09f1bf24dcae58ebab3c0cdd90ad966bc43a45b44867e12b" />
+    <list uuid="3b1dcc6ddc00eea7c0e7437dabfdf5206f703fc1e08bb78e8ca990b6ed647c1b" id="e04980d876c32789f5656e6b23eaf821eda020ee9a19996e1ae6544282ddd5ba" />
+  </component>
+</module>

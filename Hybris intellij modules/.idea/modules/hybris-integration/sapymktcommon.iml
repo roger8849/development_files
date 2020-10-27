@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="(sapymktcommon)" name="(sapymktcommon)" removed="false">
+          <dependency>(platform)==platform</dependency>
+          <dependency>(commerceservices)==commerceservices</dependency>
+          <file>file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/resources/sapymktcommon-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/project.properties</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/eclipsebin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon">
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/commonweb/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/acceleratoraddon/web/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/backoffice/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/backoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/backoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/eclipsebin-web" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/testclasses" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library name="classes with sources">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="resources">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="lib">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktcommon/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="commerceservices" exported="" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+  <component name="moduleReferences">
+    <list uuid="1b2d0986f7d4460fa557a25de9d3548721076040172a8bfa108bac245cb32f1f" id="b5bea41b6c623f7c09f1bf24dcae58ebab3c0cdd90ad966bc43a45b44867e12b" />
+    <list uuid="3b1dcc6ddc00eea7c0e7437dabfdf5206f703fc1e08bb78e8ca990b6ed647c1b" id="e04980d876c32789f5656e6b23eaf821eda020ee9a19996e1ae6544282ddd5ba" />
+  </component>
+</module>

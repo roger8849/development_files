@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="(personalizationservicesbackoffice)" name="(personalizationservicesbackoffice)" removed="false">
+          <dependency>(commerceservicesbackoffice)==commerceservicesbackoffice</dependency>
+          <dependency>(backoffice)==backoffice</dependency>
+          <dependency>(backoffice)==backoffice_web</dependency>
+          <dependency>(platform)==platform</dependency>
+          <dependency>(npmancillary)==npmancillary</dependency>
+          <dependency>(npmancillary)==npmancillary_web</dependency>
+          <dependency>(personalizationservices)==personalizationservices</dependency>
+          <file>file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/project.properties</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/resources/personalizationservicesbackoffice-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/eclipsebin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice">
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/commonweb/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/acceleratoraddon/web/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/backoffice/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/backoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/backoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/eclipsebin-web" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/testclasses" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library name="resources">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="personalizationservicesbackofficeserver.jar with sources">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../bin/ext-backoffice/personalizationservicesbackoffice/bin/personalizationservicesbackofficeserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../../../../source-attachment-1811.28.zip!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="backoffice lib">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-backoffice/backoffice/web/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../bin/ext-backoffice/backoffice/web/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="backoffice classes">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-backoffice/backoffice/web/webroot/WEB-INF/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="commerceservicesbackoffice" exported="" />
+    <orderEntry type="module" module-name="backoffice" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="npmancillary" exported="" />
+    <orderEntry type="module" module-name="personalizationservices" exported="" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+  <component name="moduleReferences">
+    <list uuid="1b2d0986f7d4460fa557a25de9d3548721076040172a8bfa108bac245cb32f1f" id="b5bea41b6c623f7c09f1bf24dcae58ebab3c0cdd90ad966bc43a45b44867e12b" />
+    <list uuid="3b1dcc6ddc00eea7c0e7437dabfdf5206f703fc1e08bb78e8ca990b6ed647c1b" id="e04980d876c32789f5656e6b23eaf821eda020ee9a19996e1ae6544282ddd5ba" />
+  </component>
+</module>

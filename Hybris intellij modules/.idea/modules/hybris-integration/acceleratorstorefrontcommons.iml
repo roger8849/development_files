@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="(acceleratorstorefrontcommons)" name="(acceleratorstorefrontcommons)" removed="false">
+          <dependency>(platform)==platform</dependency>
+          <dependency>(acceleratorfacades)==acceleratorfacades</dependency>
+          <file>file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/resources/acceleratorstorefrontcommons/web/spring/acceleratorstorefrontcommons-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/project.properties</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/eclipsebin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons">
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/commonweb/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/acceleratoraddon/web/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/backoffice/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/backoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/backoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/eclipsebin-web" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/testclasses" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library name="classes with sources">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="resources">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="lib">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="commonweb lib">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/commonweb/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../bin/ext-accelerator/acceleratorstorefrontcommons/commonweb/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="acceleratorfacades" exported="" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+  <component name="moduleReferences">
+    <list uuid="1b2d0986f7d4460fa557a25de9d3548721076040172a8bfa108bac245cb32f1f" id="b5bea41b6c623f7c09f1bf24dcae58ebab3c0cdd90ad966bc43a45b44867e12b" />
+    <list uuid="3b1dcc6ddc00eea7c0e7437dabfdf5206f703fc1e08bb78e8ca990b6ed647c1b" id="e04980d876c32789f5656e6b23eaf821eda020ee9a19996e1ae6544282ddd5ba" />
+  </component>
+</module>

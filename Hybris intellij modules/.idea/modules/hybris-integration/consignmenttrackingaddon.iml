@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="(consignmenttrackingaddon)" name="(consignmenttrackingaddon)" removed="false">
+          <dependency>(addonsupport)==addonsupport</dependency>
+          <dependency>(consignmenttrackingfacades)==consignmenttrackingfacades</dependency>
+          <dependency>(officedepotstorefront)==officedepotstorefront</dependency>
+          <dependency>(officedepotstorefront)==officedepotstorefront_web</dependency>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/resources/consignmenttrackingaddon-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/project.properties</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/eclipsebin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/commonweb/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/acceleratoraddon/web/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/backoffice/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/backoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/backoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/eclipsebin-web" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/web/webroot/WEB-INF/classes" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="addon lib">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/acceleratoraddon/web/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/consignmenttrackingaddon/acceleratoraddon/web/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="addonsupport" exported="" />
+    <orderEntry type="module" module-name="consignmenttrackingfacades" exported="" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+  <component name="moduleReferences">
+    <list uuid="3b1dcc6ddc00eea7c0e7437dabfdf5206f703fc1e08bb78e8ca990b6ed647c1b" id="7cd5885327fd60e825d67d32f9d22b018227a208aa3c4819da15b36b5d5869d3" />
+  </component>
+</module>

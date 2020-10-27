@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="(eventtrackingservices)" name="(eventtrackingservices)" removed="false">
+          <dependency>(eventtrackingmodel)==eventtrackingmodel</dependency>
+          <dependency>(platform)==platform</dependency>
+          <dependency>(eventtrackingpublisher)==eventtrackingpublisher</dependency>
+          <file>file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/resources/eventtrackingservices-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/project.properties</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/eclipsebin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices">
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/commonweb/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/acceleratoraddon/web/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/backoffice/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/backoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/backoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/eclipsebin-web" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/testclasses" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library name="classes with sources">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="resources">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="lib">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../bin/ext-eventtracking/eventtrackingservices/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="eventtrackingmodel" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="eventtrackingpublisher" exported="" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+  <component name="moduleReferences">
+    <list uuid="1b2d0986f7d4460fa557a25de9d3548721076040172a8bfa108bac245cb32f1f" id="b5bea41b6c623f7c09f1bf24dcae58ebab3c0cdd90ad966bc43a45b44867e12b" />
+    <list uuid="3b1dcc6ddc00eea7c0e7437dabfdf5206f703fc1e08bb78e8ca990b6ed647c1b" id="e04980d876c32789f5656e6b23eaf821eda020ee9a19996e1ae6544282ddd5ba" />
+  </component>
+</module>

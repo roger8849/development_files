@@ -1,0 +1,21 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Remote debug with JSP" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" APPLICATION_SERVER_NAME="[y] Petco 1811 Tomcat" ALTERNATIVE_JRE_ENABLED="false">
+    <option name="PORT" value="8001" />
+    <option name="LOCAL" value="false" />
+    <option name="OPEN_IN_BROWSER" value="false" />
+    <option name="START_JAVASCRIPT_DEBUGGER" value="true" />
+    <deployment />
+    <server-settings>
+      <data>
+        <option name="transportHostId" />
+      </data>
+    </server-settings>
+    <predefined_log_file enabled="true" id="Tomcat" />
+    <predefined_log_file enabled="true" id="TOMCAT_LOCALHOST_LOG_ID" />
+    <RunnerSettings RunnerId="Debug">
+      <option name="DEBUG_PORT" value="8001" />
+      <option name="LOCAL" value="false" />
+    </RunnerSettings>
+    <method v="2" />
+  </configuration>
+</component>

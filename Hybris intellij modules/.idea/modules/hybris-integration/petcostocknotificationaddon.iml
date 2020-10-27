@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="(petcostocknotificationaddon)" name="(petcostocknotificationaddon)" removed="false">
+          <dependency>(stocknotificationaddon)==stocknotificationaddon</dependency>
+          <dependency>(addonsupport)==addonsupport</dependency>
+          <dependency>(notificationaddon)==notificationaddon</dependency>
+          <dependency>(officedepotstorefront)==officedepotstorefront</dependency>
+          <dependency>(officedepotstorefront)==officedepotstorefront_web</dependency>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/project.properties</file>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/resources/petcostocknotificationaddon-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/eclipsebin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/commonweb/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/acceleratoraddon/web/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/backoffice/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/backoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/backoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/eclipsebin-web" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/web/webroot/WEB-INF/classes" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="addon lib">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/acceleratoraddon/web/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcostocknotificationaddon/acceleratoraddon/web/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="stocknotificationaddon" exported="" />
+    <orderEntry type="module" module-name="addonsupport" exported="" />
+    <orderEntry type="module" module-name="notificationaddon" exported="" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+  <component name="moduleReferences">
+    <list uuid="3b1dcc6ddc00eea7c0e7437dabfdf5206f703fc1e08bb78e8ca990b6ed647c1b" id="7cd5885327fd60e825d67d32f9d22b018227a208aa3c4819da15b36b5d5869d3" />
+  </component>
+</module>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="(cscockpit)" name="(cscockpit)" removed="false">
+          <dependency>(cockpit)==cockpit</dependency>
+          <dependency>(cockpit)==cockpit_web</dependency>
+          <dependency>(ticketsystem)==ticketsystem</dependency>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/resources/cscockpit/cscockpit-spring-custom.xml</file>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/officedepotcockpits/resources/officedepotcockpits/cscockpit/spring/cscockpit-widgets.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-cockpit/cockpit/resources/cockpit/cockpit-spring-services.xml</file>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/officedepotcockpits/resources/officedepotcockpits/cscockpit/spring/import.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-cockpit/cockpit/resources/cockpit/cockpit-spring-wizards.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-cockpit/cockpit/resources/cockpit/cockpit-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-cockpit/cockpit/resources/cockpit/cockpit-spring-wrappers.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-cockpit/cockpit/resources/cockpit/cockpit-spring-security.xml</file>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/resources/cscockpit/cscockpit-spring-configs.xml</file>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/resources/cscockpit/cscockpit-spring-editors.xml</file>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/resources/cscockpit/cscockpit-spring-services.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-cockpit/cockpit/resources/cockpit/cockpit-spring-uitest.xml</file>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/resources/cscockpit/cscockpit-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/resources/cscockpit/cscockpit-spring-security.xml</file>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/resources/cscockpit/cscockpit-spring-wizards.xml</file>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/resources/cscockpit-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/project.properties</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-cockpit/cockpit/resources/cockpit/cockpit-spring-editors.xml</file>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/resources/cscockpit/cscockpit-spring-widgets.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/web/webroot/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/web/webroot" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/src" />
+          <root url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/gensrc" />
+          <root url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/resources" />
+          <root url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/commonweb/src" />
+          <root url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/commonweb/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/commonweb/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/commonweb/gensrc" />
+          <root url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/acceleratoraddon/web/src" />
+          <root url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/acceleratoraddon/web/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/acceleratoraddon/web/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/acceleratoraddon/web/gensrc" />
+          <root url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/backoffice/src" />
+          <root url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/backoffice/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/backoffice/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/backoffice/resources" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/eclipsebin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/commonweb/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/acceleratoraddon/web/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/backoffice/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/backoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/backoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/eclipsebin-web" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/web/webroot/WEB-INF/classes" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library name="cscockpitserver.jar with sources">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cscockpit/bin/cscockpitserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../../../../source-attachment-1811.28.zip!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="cockpit" exported="" />
+    <orderEntry type="module" module-name="ticketsystem" exported="" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+  <component name="moduleReferences">
+    <list uuid="3b1dcc6ddc00eea7c0e7437dabfdf5206f703fc1e08bb78e8ca990b6ed647c1b" id="7cd5885327fd60e825d67d32f9d22b018227a208aa3c4819da15b36b5d5869d3" />
+  </component>
+</module>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="(tomcatembeddedserver)" name="(tomcatembeddedserver)" removed="false">
+          <dependency>(embeddedserver)==embeddedserver</dependency>
+          <dependency>(embeddedserver)==embeddedserver_web</dependency>
+          <dependency>(platform)==platform</dependency>
+          <file>file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/project.properties</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/resources/tomcatembeddedserver-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/web/webroot/WEB-INF/tomcatembeddedserver-web-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/web/webroot/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/web/webroot" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/src" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/gensrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/resources" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/commonweb/src" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/commonweb/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/commonweb/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/commonweb/gensrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/acceleratoraddon/web/src" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/acceleratoraddon/web/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/acceleratoraddon/web/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/acceleratoraddon/web/gensrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/backoffice/src" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/backoffice/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/backoffice/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/backoffice/resources" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/eclipsebin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver">
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/commonweb/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/acceleratoraddon/web/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/backoffice/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/backoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/backoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/eclipsebin-web" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/testclasses" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library name="resources">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="tomcatembeddedserverserver.jar with sources">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/bin/tomcatembeddedserverserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../../../../source-attachment-1811.28.zip!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="lib">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../bin/ext-platform-optional/tomcatembeddedserver/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="embeddedserver" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+  <component name="moduleReferences">
+    <list uuid="1b2d0986f7d4460fa557a25de9d3548721076040172a8bfa108bac245cb32f1f" id="b5bea41b6c623f7c09f1bf24dcae58ebab3c0cdd90ad966bc43a45b44867e12b" />
+    <list uuid="3b1dcc6ddc00eea7c0e7437dabfdf5206f703fc1e08bb78e8ca990b6ed647c1b" id="e04980d876c32789f5656e6b23eaf821eda020ee9a19996e1ae6544282ddd5ba" />
+  </component>
+</module>

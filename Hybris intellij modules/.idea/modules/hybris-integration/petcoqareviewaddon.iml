@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="(petcoqareviewaddon)" name="(petcoqareviewaddon)" removed="false">
+          <dependency>(officedepotcore)==officedepotcore</dependency>
+          <dependency>(backoffice)==backoffice</dependency>
+          <dependency>(backoffice)==backoffice_web</dependency>
+          <dependency>(officedepotcsaddon)==officedepotcsaddon</dependency>
+          <dependency>(commerceservices)==commerceservices</dependency>
+          <dependency>(acceleratorstorefrontcommons)==acceleratorstorefrontcommons</dependency>
+          <dependency>(officedepotfacades)==officedepotfacades</dependency>
+          <dependency>(addonsupport)==addonsupport</dependency>
+          <dependency>(officedepotstorefront)==officedepotstorefront</dependency>
+          <dependency>(officedepotstorefront)==officedepotstorefront_web</dependency>
+          <dependency>(petcowebservices)==petcowebservices</dependency>
+          <dependency>(petcowebservices)==petcowebservices_web</dependency>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/project.properties</file>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/resources/petcoqareviewaddon-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/eclipsebin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/commonweb/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/acceleratoraddon/web/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/backoffice/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/backoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/backoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/eclipsebin-web" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/web/webroot/WEB-INF/classes" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library name="lib">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="addon lib">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/acceleratoraddon/web/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/petcoqareviewaddon/acceleratoraddon/web/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="officedepotcore" exported="" />
+    <orderEntry type="module" module-name="backoffice" exported="" />
+    <orderEntry type="module" module-name="officedepotcsaddon" exported="" />
+    <orderEntry type="module" module-name="commerceservices" exported="" />
+    <orderEntry type="module" module-name="acceleratorstorefrontcommons" exported="" />
+    <orderEntry type="module" module-name="officedepotfacades" exported="" />
+    <orderEntry type="module" module-name="addonsupport" exported="" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+  <component name="moduleReferences">
+    <list uuid="3b1dcc6ddc00eea7c0e7437dabfdf5206f703fc1e08bb78e8ca990b6ed647c1b" id="7cd5885327fd60e825d67d32f9d22b018227a208aa3c4819da15b36b5d5869d3" />
+  </component>
+</module>

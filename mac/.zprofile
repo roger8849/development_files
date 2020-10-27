@@ -1,12 +1,12 @@
 ######## JAVA ##################
-export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-11.0.5.jdk/Contents/Home
-#export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-11.0.8.jdk/Contents/Home
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_261.jdk/Contents/Home
 export JAVA=$JAVA_HOME/bin
 export PATH=$PATH:$JAVA
 
 ########### ANT ###################
 export ANT_HOME=/Users/i864532/SAPDevelop/tools/apache-ant-1.9.13
-export ANT_HOME=/Applications/apache-ant-1.10.6
+#export ANT_HOME=/Applications/apache-ant-1.10.6
 export ANT=$ANT_HOME/bin
 export PATH=$PATH:$ANT
 
@@ -30,7 +30,7 @@ export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || pr
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm
 
 ##### FLUTTER ############
-export FLUTTER_HOME=/Users/i864532/SAPDevelop/flutter
+export FLUTTER_HOME=/Users/i864532/GitHub/flutter
 export FLUTTER=$FLUTTER_HOME/bin
 export PATH=$PATH:$FLUTTER
 
@@ -38,39 +38,18 @@ export PATH=$PATH:$FLUTTER
 PATH=/usr/local/bin:$PATH
 
 ##### HYRBIS OPT ##########
-export HYBRIS_OPT_CONFIG_DIR=/Users/i864532/SAPDevelop/optional_configuration
+#export HYBRIS_OPT_CONFIG_DIR=/Users/i864532/SAPDevelop/optional_configuration
+# PETCO
+export HYBRIS_OPT_CONFIG_DIR=/Users/i864532/SAPDevelop/petco_1811/hybris/config/optional
 
 ###### Belsport #################
 belplatform=/Users/i864532/SAPDevelop/belsport_1905/hybris/bin/platform
 belcustom=/Users/i864532/SAPDevelop/belsport_1905/hybris/bin/custom
 
-###### NovaOnline ##############
-novaplatform=/Users/i864532/SAPDevelop/claro_1811/hybris/bin/platform
-
-###### B2B_ACC_PLUS ##########
-b2cb2baccomsplatform=/Users/i864532/SAPDevelop/b2c_b2b_acc_oms/hybris/bin/platform
-
-######### FIFCO ##############
-fifcoplatform=/Users/i864532/SAPDevelop/fifco_1905/hybris/bin/platform
-
-####### AGUIA BRANCA #########
-aguiaplatform=/Users/i864532/SAPDevelop/aguia_branca_1811/hybris/bin/platform
-
-####### TECNOLITE PLATFORM #######
-tecnoliteplatform=/Users/i864532/SAPDevelop/tecnolite_1905/hybris/bin/platform
-
-##### SAGIA PLATFORM ######
-sagiaplatform=/Users/i864532/SAPDevelop/sagia1905/sagia/hybris-sagia/hybris/bin/platform
-sagiaccustom=/Users/i864532/SAPDevelop/sagia1905/sagia/hybris-sagia/hybris/bin/custom
-
-###### Novaventa platform #######
-novaventaplatform=/Users/i864532/SAPDevelop/novaventa/hybris/bin/platform
-novaventacustom=/Users/i864532/SAPDevelop/novaventa/hybris/bin/custom
-nautilusplatform=/Users/i864532/SAPDevelop/nautilus/hybris/bin/platform
-nautiluscustom=/Users/i864532/SAPDevelop/nautilus/hybris/bin/custom
-
-##### FAKE SMTP ######
-fakesmtp=/Users/i864532/SAPDevelop/tools/fakeSMTP
+###### Belsport #################
+petcoplatform=/Users/i864532/SAPDevelop/petco_1811/hybris/bin/platform
+petcocustom=/Users/i864532/SAPDevelop/petco_1811/hybris/bin/custom
+petcorepository=/Users/i864532/SAPDevelop/petco_1811/repository
 
 ######### HYPS Jmeter #######
 hypshome=/Users/i864532/SAPDevelop/tools/hyps-jmeter

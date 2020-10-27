@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="(ticketsystembackoffice)" name="(ticketsystembackoffice)" removed="false">
+          <dependency>(platform)==platform</dependency>
+          <dependency>(platformbackoffice)==platformbackoffice</dependency>
+          <dependency>(backoffice)==backoffice</dependency>
+          <dependency>(backoffice)==backoffice_web</dependency>
+          <file>file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/project.properties</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/resources/ticketsystembackoffice-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/eclipsebin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice">
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/commonweb/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/acceleratoraddon/web/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/backoffice/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/backoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/backoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/eclipsebin-web" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/testclasses" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library name="resources">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="ticketsystembackofficeserver.jar with sources">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../bin/ext-backoffice/ticketsystembackoffice/bin/ticketsystembackofficeserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../../../../source-attachment-1811.28.zip!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="backoffice lib">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-backoffice/backoffice/web/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../bin/ext-backoffice/backoffice/web/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="backoffice classes">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-backoffice/backoffice/web/webroot/WEB-INF/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="platformbackoffice" exported="" />
+    <orderEntry type="module" module-name="backoffice" exported="" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+  <component name="moduleReferences">
+    <list uuid="1b2d0986f7d4460fa557a25de9d3548721076040172a8bfa108bac245cb32f1f" id="b5bea41b6c623f7c09f1bf24dcae58ebab3c0cdd90ad966bc43a45b44867e12b" />
+    <list uuid="3b1dcc6ddc00eea7c0e7437dabfdf5206f703fc1e08bb78e8ca990b6ed647c1b" id="e04980d876c32789f5656e6b23eaf821eda020ee9a19996e1ae6544282ddd5ba" />
+  </component>
+</module>

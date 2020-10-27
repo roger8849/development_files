@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="(assistedservicestorefront)" name="(assistedservicestorefront)" removed="false">
+          <dependency>(acceleratorstorefrontcommons)==acceleratorstorefrontcommons</dependency>
+          <dependency>(assistedservicefacades)==assistedservicefacades</dependency>
+          <dependency>(addonsupport)==addonsupport</dependency>
+          <dependency>(cms2)==cms2</dependency>
+          <dependency>(officedepotstorefront)==officedepotstorefront</dependency>
+          <dependency>(officedepotstorefront)==officedepotstorefront_web</dependency>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/project.properties</file>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/resources/assistedservicestorefront-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/eclipsebin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/commonweb/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/acceleratoraddon/web/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/backoffice/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/backoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/backoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/eclipsebin-web" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/web/webroot/WEB-INF/classes" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="addon lib">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/acceleratoraddon/web/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/assistedservicestorefront/acceleratoraddon/web/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorstorefrontcommons" exported="" />
+    <orderEntry type="module" module-name="assistedservicefacades" exported="" />
+    <orderEntry type="module" module-name="addonsupport" exported="" />
+    <orderEntry type="module" module-name="cms2" exported="" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+  <component name="moduleReferences">
+    <list uuid="3b1dcc6ddc00eea7c0e7437dabfdf5206f703fc1e08bb78e8ca990b6ed647c1b" id="7cd5885327fd60e825d67d32f9d22b018227a208aa3c4819da15b36b5d5869d3" />
+  </component>
+</module>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="(azurecloudhotfolder)" name="(azurecloudhotfolder)" removed="false">
+          <dependency>(cloudhotfolder)==cloudhotfolder</dependency>
+          <dependency>(cloudcommons)==cloudcommons</dependency>
+          <dependency>(springintegrationlibs)==springintegrationlibs</dependency>
+          <dependency>(azurecloud)==azurecloud</dependency>
+          <file>file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/resources/azurecloudhotfolder-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/project.properties</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/eclipsebin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder">
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/commonweb/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/acceleratoraddon/web/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/backoffice/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/backoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/backoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/eclipsebin-web" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/sap-ccv2-hotfolder/azurecloudhotfolder/web/webroot/WEB-INF/classes" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="cloudhotfolder" exported="" />
+    <orderEntry type="module" module-name="cloudcommons" exported="" />
+    <orderEntry type="module" module-name="springintegrationlibs" exported="" />
+    <orderEntry type="module" module-name="azurecloud" exported="" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+  <component name="moduleReferences">
+    <list uuid="3b1dcc6ddc00eea7c0e7437dabfdf5206f703fc1e08bb78e8ca990b6ed647c1b" id="7cd5885327fd60e825d67d32f9d22b018227a208aa3c4819da15b36b5d5869d3" />
+  </component>
+</module>

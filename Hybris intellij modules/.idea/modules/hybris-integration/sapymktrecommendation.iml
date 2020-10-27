@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="(sapymktrecommendation)" name="(sapymktrecommendation)" removed="false">
+          <dependency>(acceleratorcms)==acceleratorcms</dependency>
+          <dependency>(sapymktrecommendationbuffer)==sapymktrecommendationbuffer</dependency>
+          <dependency>(platform)==platform</dependency>
+          <dependency>(sapymktcommon)==sapymktcommon</dependency>
+          <dependency>(cms2lib)==cms2lib</dependency>
+          <file>file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/resources/sapymktrecommendation-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/project.properties</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/eclipsebin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation">
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/commonweb/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/acceleratoraddon/web/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/backoffice/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/backoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/backoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/eclipsebin-web" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/testclasses" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library name="classes with sources">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="resources">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-integration/ymkt/sapymktrecommendation/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorcms" exported="" />
+    <orderEntry type="module" module-name="sapymktrecommendationbuffer" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="sapymktcommon" exported="" />
+    <orderEntry type="module" module-name="cms2lib" exported="" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+  <component name="moduleReferences">
+    <list uuid="1b2d0986f7d4460fa557a25de9d3548721076040172a8bfa108bac245cb32f1f" id="b5bea41b6c623f7c09f1bf24dcae58ebab3c0cdd90ad966bc43a45b44867e12b" />
+    <list uuid="3b1dcc6ddc00eea7c0e7437dabfdf5206f703fc1e08bb78e8ca990b6ed647c1b" id="e04980d876c32789f5656e6b23eaf821eda020ee9a19996e1ae6544282ddd5ba" />
+  </component>
+</module>

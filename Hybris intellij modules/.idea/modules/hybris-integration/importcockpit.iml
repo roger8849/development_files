@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="(importcockpit)" name="(importcockpit)" removed="false">
+          <dependency>(platform)==platform</dependency>
+          <dependency>(cockpit)==cockpit</dependency>
+          <dependency>(cockpit)==cockpit_web</dependency>
+          <file>file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/resources/importcockpit/importcockpit-web-defaultperspective-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-cockpit/cockpit/resources/cockpit/cockpit-spring-services.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/resources/importcockpit/importcockpit-spring-configs.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-cockpit/cockpit/resources/cockpit/cockpit-spring-wizards.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/resources/importcockpit-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/resources/importcockpit/importcockpit-web-mappings-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/resources/importcockpit/importcockpit-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-cockpit/cockpit/resources/cockpit/cockpit-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/resources/importcockpit/importcockpit-spring-security.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-cockpit/cockpit/resources/cockpit/cockpit-spring-wrappers.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/resources/importcockpit/importcockpit-spring-editors.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-cockpit/cockpit/resources/cockpit/cockpit-spring-security.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/resources/importcockpit/importcockpit-spring-uitest.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/project.properties</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-cockpit/cockpit/resources/cockpit/cockpit-spring-uitest.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/resources/importcockpit/importcockpit-spring-wizzards.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-cockpit/cockpit/resources/cockpit/cockpit-spring-editors.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/resources/importcockpit/importcockpit-spring-services.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/web/webroot/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/web/webroot" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/src" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/gensrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/resources" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/commonweb/src" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/commonweb/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/commonweb/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/commonweb/gensrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/acceleratoraddon/web/src" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/acceleratoraddon/web/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/acceleratoraddon/web/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/acceleratoraddon/web/gensrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/backoffice/src" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/backoffice/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/backoffice/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/backoffice/resources" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/eclipsebin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit">
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/commonweb/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/acceleratoraddon/web/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/backoffice/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/backoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/backoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/eclipsebin-web" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/testclasses" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library name="resources">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="importcockpitserver.jar with sources">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../bin/ext-content/importcockpit/bin/importcockpitserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../../../../source-attachment-1811.28.zip!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="lib">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../bin/ext-content/importcockpit/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="cockpit" exported="" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+  <component name="moduleReferences">
+    <list uuid="1b2d0986f7d4460fa557a25de9d3548721076040172a8bfa108bac245cb32f1f" id="b5bea41b6c623f7c09f1bf24dcae58ebab3c0cdd90ad966bc43a45b44867e12b" />
+    <list uuid="3b1dcc6ddc00eea7c0e7437dabfdf5206f703fc1e08bb78e8ca990b6ed647c1b" id="e04980d876c32789f5656e6b23eaf821eda020ee9a19996e1ae6544282ddd5ba" />
+  </component>
+</module>

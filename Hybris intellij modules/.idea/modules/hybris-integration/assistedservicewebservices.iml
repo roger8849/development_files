@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="(assistedservicewebservices)" name="(assistedservicewebservices)" removed="false">
+          <dependency>(commercewebservicescommons)==commercewebservicescommons</dependency>
+          <dependency>(platform)==platform</dependency>
+          <dependency>(assistedservicefacades)==assistedservicefacades</dependency>
+          <file>file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/web/webroot/WEB-INF/config/cache-config-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/web/webroot/WEB-INF/config/error-config-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/web/webroot/WEB-INF/assistedservicewebservices-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/web/webroot/WEB-INF/config/field-mapping-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/project.properties</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/web/webroot/WEB-INF/config/security-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/resources/assistedservicewebservices-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/web/webroot/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/web/webroot" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/src" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/gensrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/resources" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/commonweb/src" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/commonweb/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/commonweb/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/commonweb/gensrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/acceleratoraddon/web/src" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/acceleratoraddon/web/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/acceleratoraddon/web/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/acceleratoraddon/web/gensrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/backoffice/src" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/backoffice/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/backoffice/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/backoffice/resources" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/eclipsebin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices">
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/commonweb/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/acceleratoraddon/web/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/backoffice/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/backoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/backoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/eclipsebin-web" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/testclasses" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library name="classes with sources">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="resources">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="lib">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../bin/ext-commerce/assistedservicewebservices/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="commercewebservicescommons" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="assistedservicefacades" exported="" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+  <component name="moduleReferences">
+    <list uuid="1b2d0986f7d4460fa557a25de9d3548721076040172a8bfa108bac245cb32f1f" id="b5bea41b6c623f7c09f1bf24dcae58ebab3c0cdd90ad966bc43a45b44867e12b" />
+    <list uuid="3b1dcc6ddc00eea7c0e7437dabfdf5206f703fc1e08bb78e8ca990b6ed647c1b" id="e04980d876c32789f5656e6b23eaf821eda020ee9a19996e1ae6544282ddd5ba" />
+  </component>
+</module>

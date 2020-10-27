@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="(mobileservices)" name="(mobileservices)" removed="false">
+          <dependency>(platform)==platform</dependency>
+          <dependency>(basecommerce)==basecommerce</dependency>
+          <file>file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/web/webroot/WEB-INF/mobileservices-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/resources/mobileservices-engines-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/resources/mobileservices-validation-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/resources/mobileservices-actions-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/resources/mobileservices-actions-test-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/resources/mobileservices-core-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/project.properties</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/resources/mobileservices-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/resources/mobileservices-engines-test-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/web/webroot/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/web/webroot" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/src" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/gensrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/resources" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/commonweb/src" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/commonweb/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/commonweb/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/commonweb/gensrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/acceleratoraddon/web/src" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/acceleratoraddon/web/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/acceleratoraddon/web/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/acceleratoraddon/web/gensrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/backoffice/src" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/backoffice/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/backoffice/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/backoffice/resources" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/eclipsebin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices">
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/commonweb/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/acceleratoraddon/web/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/backoffice/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/backoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/backoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/eclipsebin-web" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/testclasses" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library name="resources">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="mobileservicesserver.jar with sources">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/bin/mobileservicesserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../../../../source-attachment-1811.28.zip!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="lib">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../bin/ext-channel/mobileservices/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="basecommerce" exported="" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+  <component name="moduleReferences">
+    <list uuid="1b2d0986f7d4460fa557a25de9d3548721076040172a8bfa108bac245cb32f1f" id="b5bea41b6c623f7c09f1bf24dcae58ebab3c0cdd90ad966bc43a45b44867e12b" />
+    <list uuid="3b1dcc6ddc00eea7c0e7437dabfdf5206f703fc1e08bb78e8ca990b6ed647c1b" id="e04980d876c32789f5656e6b23eaf821eda020ee9a19996e1ae6544282ddd5ba" />
+  </component>
+</module>

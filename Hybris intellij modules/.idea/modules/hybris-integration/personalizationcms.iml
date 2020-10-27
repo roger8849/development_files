@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="(personalizationcms)" name="(personalizationcms)" removed="false">
+          <dependency>(acceleratorcms)==acceleratorcms</dependency>
+          <dependency>(cmsfacades)==cmsfacades</dependency>
+          <dependency>(platform)==platform</dependency>
+          <dependency>(cms2)==cms2</dependency>
+          <dependency>(personalizationservices)==personalizationservices</dependency>
+          <dependency>(cms2lib)==cms2lib</dependency>
+          <file>file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/project.properties</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/resources/personalizationcms-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/eclipsebin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms">
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/commonweb/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/acceleratoraddon/web/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/backoffice/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/backoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/backoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/eclipsebin-web" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/testclasses" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library name="resources">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="personalizationcmsserver.jar with sources">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/bin/personalizationcmsserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../../../../source-attachment-1811.28.zip!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="lib">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../bin/ext-customer-experience/personalizationcms/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorcms" exported="" />
+    <orderEntry type="module" module-name="cmsfacades" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="cms2" exported="" />
+    <orderEntry type="module" module-name="personalizationservices" exported="" />
+    <orderEntry type="module" module-name="cms2lib" exported="" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+  <component name="moduleReferences">
+    <list uuid="1b2d0986f7d4460fa557a25de9d3548721076040172a8bfa108bac245cb32f1f" id="b5bea41b6c623f7c09f1bf24dcae58ebab3c0cdd90ad966bc43a45b44867e12b" />
+    <list uuid="3b1dcc6ddc00eea7c0e7437dabfdf5206f703fc1e08bb78e8ca990b6ed647c1b" id="e04980d876c32789f5656e6b23eaf821eda020ee9a19996e1ae6544282ddd5ba" />
+  </component>
+</module>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="(cmscockpit)" name="(cmscockpit)" removed="false">
+          <dependency>(cockpit)==cockpit</dependency>
+          <dependency>(cockpit)==cockpit_web</dependency>
+          <dependency>(admincockpit)==admincockpit</dependency>
+          <dependency>(admincockpit)==admincockpit_web</dependency>
+          <dependency>(cms2)==cms2</dependency>
+          <dependency>(cms2lib)==cms2lib</dependency>
+          <dependency>(basecommerce)==basecommerce</dependency>
+          <file>file://$MODULE_DIR$/../../../bin/ext-cockpit/cockpit/resources/cockpit/cockpit-spring-services.xml</file>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cmscockpit/resources/cmscockpit/cmscockpit-spring-editors.xml</file>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cmscockpit/resources/cmscockpit-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-cockpit/cockpit/resources/cockpit/cockpit-spring-wizards.xml</file>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/officedepotcockpits/resources/officedepotcockpits/cmscockpit/spring/cmscockpit-wizards.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-cockpit/cockpit/resources/cockpit/cockpit-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cmscockpit/resources/cmscockpit/cmscockpit-navigation-perspective.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-cockpit/cockpit/resources/cockpit/cockpit-spring-security.xml</file>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/officedepotcockpits/resources/officedepotcockpits/cmscockpit/spring/cmscockpit-catalog-perspective.xml</file>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cmscockpit/resources/cmscockpit/cmscockpit-spring-security.xml</file>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cmscockpit/resources/cmscockpit/cmscockpit-liveedit-perspective.xml</file>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cmscockpit/resources/cmscockpit/cmscockpit-spring-navigation-items-wizard.xml</file>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cmscockpit/resources/cmscockpit/cmscockpit-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/officedepotcockpits/resources/officedepotcockpits/cmscockpit/spring/cmscockpit-editors.xml</file>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cmscockpit/resources/cmscockpit/cmscockpit-csa-script.xml</file>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cmscockpit/resources/cmscockpit/cmscockpit-spring-wizards.xml</file>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cmscockpit/resources/cmscockpit/cmscockpit-catalog-perspective.xml</file>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cmscockpit/resources/cmscockpit/cmscockpit-spring-uitest.xml</file>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cmscockpit/resources/cmscockpit/cmscockpit-spring-services.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-cockpit/cockpit/resources/cockpit/cockpit-spring-wrappers.xml</file>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cmscockpit/project.properties</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-cockpit/cockpit/resources/cockpit/cockpit-spring-uitest.xml</file>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/officedepotcockpits/resources/officedepotcockpits/cmscockpit/spring/cmscockpit-services.xml</file>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cmscockpit/resources/cmscockpit/cmscockpit-spring-configs.xml</file>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/officedepotcockpits/resources/officedepotcockpits/cmscockpit/spring/cmscockpit-liveedit-perspective.xml</file>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/officedepotcockpits/resources/officedepotcockpits/cmscockpit/spring/import.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-cockpit/cockpit/resources/cockpit/cockpit-spring-editors.xml</file>
+          <file>file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cmscockpit/resources/cmscockpit/cmscockpit-spring-navigation-node-wizard.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cmscockpit/web/webroot/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cmscockpit/web/webroot" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cmscockpit/web/src" />
+          <root url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cmscockpit/web/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cmscockpit/web/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cmscockpit/web/gensrc" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cmscockpit/eclipsebin-web" />
+    <output-test url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cmscockpit/eclipsebin-web" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cmscockpit/web">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cmscockpit/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cmscockpit/web/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cmscockpit/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cmscockpit/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cmscockpit/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cmscockpit/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cmscockpit/web/scalatestsrc" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cmscockpit/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cmscockpit/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cmscockpit/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../repository/core-customize/hybris/bin/custom/cmscockpit/web/webroot/WEB-INF/classes" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="cmscockpit" />
+    <orderEntry type="module" module-name="cockpit_web" exported="" />
+    <orderEntry type="module" module-name="admincockpit_web" exported="" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+  <component name="moduleReferences">
+    <list uuid="3b1dcc6ddc00eea7c0e7437dabfdf5206f703fc1e08bb78e8ca990b6ed647c1b" id="7cd5885327fd60e825d67d32f9d22b018227a208aa3c4819da15b36b5d5869d3" />
+  </component>
+</module>

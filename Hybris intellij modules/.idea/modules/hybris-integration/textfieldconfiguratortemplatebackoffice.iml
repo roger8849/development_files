@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="(textfieldconfiguratortemplatebackoffice)" name="(textfieldconfiguratortemplatebackoffice)" removed="false">
+          <dependency>(platform)==platform</dependency>
+          <dependency>(textfieldconfiguratortemplateservices)==textfieldconfiguratortemplateservices</dependency>
+          <dependency>(backoffice)==backoffice</dependency>
+          <dependency>(backoffice)==backoffice_web</dependency>
+          <file>file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/project.properties</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/resources/textfieldconfiguratortemplatebackoffice-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/eclipsebin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice">
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/commonweb/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/acceleratoraddon/web/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/backoffice/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/backoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/backoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/eclipsebin-web" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/testclasses" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library name="classes with sources">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="resources">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-backoffice/textfieldconfiguratortemplatebackoffice/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="textfieldconfiguratortemplateservices" exported="" />
+    <orderEntry type="module" module-name="backoffice" exported="" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+  <component name="moduleReferences">
+    <list uuid="1b2d0986f7d4460fa557a25de9d3548721076040172a8bfa108bac245cb32f1f" id="b5bea41b6c623f7c09f1bf24dcae58ebab3c0cdd90ad966bc43a45b44867e12b" />
+    <list uuid="3b1dcc6ddc00eea7c0e7437dabfdf5206f703fc1e08bb78e8ca990b6ed647c1b" id="e04980d876c32789f5656e6b23eaf821eda020ee9a19996e1ae6544282ddd5ba" />
+  </component>
+</module>

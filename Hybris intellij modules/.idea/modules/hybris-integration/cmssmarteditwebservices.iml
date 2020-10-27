@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="(cmssmarteditwebservices)" name="(cmssmarteditwebservices)" removed="false">
+          <dependency>(platform)==platform</dependency>
+          <dependency>(cmswebservices)==cmswebservices</dependency>
+          <dependency>(cmswebservices)==cmswebservices_web</dependency>
+          <dependency>(webservicescommons)==webservicescommons</dependency>
+          <file>file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/resources/config/cmssmarteditwebservices-field-mapping-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/web/webroot/WEB-INF/config/security-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/web/webroot/WEB-INF/config/error-config-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/project.properties</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-webservices/webservicescommons/resources/webservicescommons/commons-security-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/web/webroot/WEB-INF/config/filter-config-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/web/webroot/WEB-INF/config/interceptor-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/resources/cmssmarteditwebservices-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/web/webroot/WEB-INF/config/cache-config-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/web/webroot/WEB-INF/config/field-mapping-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/resources/config/cmssmarteditwebservices-products-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/web/webroot/WEB-INF/cmssmarteditwebservices-web-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/web/webroot/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/web/webroot" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/src" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/gensrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/resources" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/commonweb/src" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/commonweb/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/commonweb/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/commonweb/gensrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/acceleratoraddon/web/src" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/acceleratoraddon/web/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/acceleratoraddon/web/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/acceleratoraddon/web/gensrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/backoffice/src" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/backoffice/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/backoffice/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/backoffice/resources" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/eclipsebin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices">
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/commonweb/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/acceleratoraddon/web/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/backoffice/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/backoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/backoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/eclipsebin-web" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/testclasses" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library name="classes with sources">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="resources">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/cmssmarteditwebservices/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="cmswebservices" exported="" />
+    <orderEntry type="module" module-name="webservicescommons" exported="" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+  <component name="moduleReferences">
+    <list uuid="1b2d0986f7d4460fa557a25de9d3548721076040172a8bfa108bac245cb32f1f" id="b5bea41b6c623f7c09f1bf24dcae58ebab3c0cdd90ad966bc43a45b44867e12b" />
+    <list uuid="3b1dcc6ddc00eea7c0e7437dabfdf5206f703fc1e08bb78e8ca990b6ed647c1b" id="e04980d876c32789f5656e6b23eaf821eda020ee9a19996e1ae6544282ddd5ba" />
+  </component>
+</module>

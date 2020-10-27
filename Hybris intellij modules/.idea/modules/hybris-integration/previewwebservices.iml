@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="(previewwebservices)" name="(previewwebservices)" removed="false">
+          <dependency>(platform)==platform</dependency>
+          <dependency>(cms2)==cms2</dependency>
+          <dependency>(webservicescommons)==webservicescommons</dependency>
+          <file>file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/web/webroot/WEB-INF/config/error-config-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/web/webroot/WEB-INF/config/field-mapping-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/resources/previewwebservices-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/web/webroot/WEB-INF/previewwebservices-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/project.properties</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/web/webroot/WEB-INF/config/validation-config-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/web/webroot/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/web/webroot" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/src" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/gensrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/resources" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/commonweb/src" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/commonweb/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/commonweb/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/commonweb/gensrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/acceleratoraddon/web/src" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/acceleratoraddon/web/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/acceleratoraddon/web/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/acceleratoraddon/web/gensrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/backoffice/src" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/backoffice/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/backoffice/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/backoffice/resources" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/eclipsebin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices">
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/commonweb/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/acceleratoraddon/web/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/backoffice/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/backoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/backoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/eclipsebin-web" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/testclasses" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library name="resources">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="previewwebservicesserver.jar with sources">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/bin/previewwebservicesserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../../../../source-attachment-1811.28.zip!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="lib">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../bin/ext-webservices/previewwebservices/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="cms2" exported="" />
+    <orderEntry type="module" module-name="webservicescommons" exported="" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+  <component name="moduleReferences">
+    <list uuid="1b2d0986f7d4460fa557a25de9d3548721076040172a8bfa108bac245cb32f1f" id="b5bea41b6c623f7c09f1bf24dcae58ebab3c0cdd90ad966bc43a45b44867e12b" />
+    <list uuid="3b1dcc6ddc00eea7c0e7437dabfdf5206f703fc1e08bb78e8ca990b6ed647c1b" id="e04980d876c32789f5656e6b23eaf821eda020ee9a19996e1ae6544282ddd5ba" />
+  </component>
+</module>

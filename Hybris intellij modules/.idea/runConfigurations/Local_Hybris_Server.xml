@@ -1,0 +1,29 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Local Hybris Server" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="[y] Petco 1811 Tomcat" ALTERNATIVE_JRE_ENABLED="false">
+    <option name="PORT" value="7001" />
+    <option name="OPEN_IN_BROWSER" value="false" />
+    <option name="OPEN_IN_BROWSER_URL" value="http://localhost:7001/" />
+    <deployment>
+      <artifact name="dummy">
+        <settings>
+          <option name="CONTEXT_PATH" value="/dummy" />
+        </settings>
+      </artifact>
+    </deployment>
+    <server-settings>
+      <option name="AJP_PORT" value="7009" />
+      <option name="DEPLOY_TOMCAT_APPS" value="true" />
+      <option name="HTTP_PORT" value="7001" />
+      <option name="HTTPS_PORT" value="7002" />
+      <option name="JNDI_PORT" value="7003" />
+    </server-settings>
+    <predefined_log_file enabled="true" id="Tomcat" />
+    <predefined_log_file enabled="true" id="Tomcat Catalina" />
+    <predefined_log_file id="Tomcat Manager" />
+    <predefined_log_file id="Tomcat Host Manager" />
+    <predefined_log_file id="Tomcat Localhost Access" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

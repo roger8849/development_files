@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="(cmssmartedit)" name="(cmssmartedit)" removed="false">
+          <dependency>(platform)==platform</dependency>
+          <dependency>(smartedit)==smartedit</dependency>
+          <dependency>(smartedit)==smartedit_web</dependency>
+          <file>file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/web/webroot/WEB-INF/config/security-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/project.properties</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/resources/cmssmartedit-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/web/webroot/WEB-INF/cmssmartedit-web-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/web/webroot/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/web/webroot" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/src" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/gensrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/resources" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/commonweb/src" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/commonweb/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/commonweb/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/commonweb/gensrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/acceleratoraddon/web/src" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/acceleratoraddon/web/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/acceleratoraddon/web/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/acceleratoraddon/web/gensrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/backoffice/src" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/backoffice/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/backoffice/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/backoffice/resources" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/eclipsebin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit">
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/commonweb/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/acceleratoraddon/web/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/backoffice/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/backoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/backoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/eclipsebin-web" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/testclasses" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library name="classes with sources">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="resources">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-smartedit/cmssmartedit/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="smartedit" exported="" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+  <component name="moduleReferences">
+    <list uuid="1b2d0986f7d4460fa557a25de9d3548721076040172a8bfa108bac245cb32f1f" id="b5bea41b6c623f7c09f1bf24dcae58ebab3c0cdd90ad966bc43a45b44867e12b" />
+    <list uuid="3b1dcc6ddc00eea7c0e7437dabfdf5206f703fc1e08bb78e8ca990b6ed647c1b" id="e04980d876c32789f5656e6b23eaf821eda020ee9a19996e1ae6544282ddd5ba" />
+  </component>
+</module>

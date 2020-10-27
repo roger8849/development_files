@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="(personalizationsearchsmartedit)" name="(personalizationsearchsmartedit)" removed="false">
+          <dependency>(platform)==platform</dependency>
+          <dependency>(smartedit)==smartedit</dependency>
+          <dependency>(smartedit)==smartedit_web</dependency>
+          <file>file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/web/webroot/WEB-INF/config/security-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/resources/personalizationsearchsmartedit-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/project.properties</file>
+          <file>file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/web/webroot/WEB-INF/personalizationsearchsmartedit-web-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/web/webroot/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/web/webroot" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/src" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/gensrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/resources" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/commonweb/src" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/commonweb/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/commonweb/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/commonweb/gensrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/acceleratoraddon/web/src" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/acceleratoraddon/web/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/acceleratoraddon/web/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/acceleratoraddon/web/gensrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/backoffice/src" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/backoffice/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/backoffice/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/backoffice/resources" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/eclipsebin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit">
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/commonweb/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/acceleratoraddon/web/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/backoffice/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/backoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/backoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/eclipsebin-web" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/testclasses" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library name="resources">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="personalizationsearchsmarteditserver.jar with sources">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../bin/ext-content/personalizationsearchsmartedit/bin/personalizationsearchsmarteditserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../../../../source-attachment-1811.28.zip!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="smartedit" exported="" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+  <component name="moduleReferences">
+    <list uuid="1b2d0986f7d4460fa557a25de9d3548721076040172a8bfa108bac245cb32f1f" id="b5bea41b6c623f7c09f1bf24dcae58ebab3c0cdd90ad966bc43a45b44867e12b" />
+    <list uuid="3b1dcc6ddc00eea7c0e7437dabfdf5206f703fc1e08bb78e8ca990b6ed647c1b" id="e04980d876c32789f5656e6b23eaf821eda020ee9a19996e1ae6544282ddd5ba" />
+  </component>
+</module>
