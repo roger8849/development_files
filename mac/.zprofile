@@ -25,6 +25,11 @@ export MYSQL_HOME=/usr/local/mysql
 export MYSQL=$MYSQL_HOME/bin
 export PATH=$PATH:$MYSQL
 
+####### Python3 ###################
+export PYTHON3_HOME=/Users/i864532/Library/Python/3.8
+export PIP=$PYTHON3_HOME/bin
+export PATH=$PATH:$PIP
+
 ####### NVM ################
 export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm
@@ -40,13 +45,19 @@ PATH=/usr/local/bin:$PATH
 ##### HYRBIS OPT ##########
 #export HYBRIS_OPT_CONFIG_DIR=/Users/i864532/SAPDevelop/optional_configuration
 # PETCO
-export HYBRIS_OPT_CONFIG_DIR=/Users/i864532/SAPDevelop/petco_1811/hybris/config/optional
+#export HYBRIS_OPT_CONFIG_DIR=/Users/i864532/SAPDevelop/petco_1811/hybris/config/optional
 
 ###### Belsport #################
 belplatform=/Users/i864532/SAPDevelop/belsport_1905/hybris/bin/platform
 belcustom=/Users/i864532/SAPDevelop/belsport_1905/hybris/bin/custom
 
-###### Belsport #################
+###### Belcorp #################
+bhome=/Users/i864532/SAPDevelop/Belcorp/HybrisECommerce
+bcorpplatform=/Users/i864532/SAPDevelop/Belcorp/HybrisECommerce/hybris/bin/platform
+bcorpcustom=/Users/i864532/SAPDevelop/Belcorp/HybrisECommerce/hybris/custom
+
+
+###### Petco #################
 petcoplatform=/Users/i864532/SAPDevelop/petco_1811/hybris/bin/platform
 petcocustom=/Users/i864532/SAPDevelop/petco_1811/hybris/bin/custom
 petcorepository=/Users/i864532/SAPDevelop/petco_1811/repository
